@@ -1,11 +1,9 @@
-![](./pic.png)
+> I am who I am because the tears of 
+> my past havewatered the magnificence
+> of my present.
 
-$$\text{Here is Margoo, a }programer\text{,}deisgner.$$
+Here is Margoo, a developer.
 
-$Quiz\text{ time, for dark mode}:$
+If you want to contact me, feel free to send me email at margoo@margoo.icu :)
 
-<div align="center"><img src="./equation.svg" width=400/></div>
-
-$Quiz\text{ time, for light mode}:$
-
-<div align="center"><img src="./equation-black.svg" width=400/></div>
+Little interest in software developing, computer grpahics, UI design.
