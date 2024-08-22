@@ -6,4 +6,4 @@ Here is Margoo, a developer.
 
 If you want to contact me, feel free to send me email at margoo@margoo.icu :)
 
-Little interest in software developing, computer grpahics, UI design.
+A little interest in software developing, computer grpahics, UI design.
