@@ -6,6 +6,11 @@
 
 Here is Margoo, a developer.
 
-If you want to contact me, feel free to send me email at margoo@margoo.icu :)
-
 A little interest in software developing, computer grpahics, UI design.
+
+My Contant email address:
+
+qiuzhengyu@siggraph.org
+qiuzhengyu@acm.org
+
+Both of below email address can contact me.
