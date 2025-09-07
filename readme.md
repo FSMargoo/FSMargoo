@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PPLForge<br>🌱 I’m currently learning Computer Graphics<br>⚡ Fun fact: I am just a primary learner to CG&CS
+🌱 I’m currently learning Computer Graphics<br>⚡ Fun fact: I am just a primary learner to CG&CS
 
 # 📬 My contact
 
@@ -19,3 +19,4 @@ qiuzhengyu@acm.org or qiuzhengyu@siggraph.org
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fsmargoo&icon=0&color=1)](https://visitcount.itsvg.in)
+
